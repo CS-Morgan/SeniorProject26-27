@@ -7,7 +7,7 @@ dotnet help
 dotnet new -h
 dotnet help new
 ```
-Testing 1 2 3 Testing 1 2 3
+
 ## Starting a Homework with a main project, a testing project and a solution file to hold them
 Use this to start all your homeworks.
 
