@@ -7,7 +7,7 @@ dotnet help
 dotnet new -h
 dotnet help new
 ```
-
+Testing 1 2 3 Testing 1 2 3
 ## Starting a Homework with a main project, a testing project and a solution file to hold them
 Use this to start all your homeworks.
 
@@ -15,7 +15,7 @@ Creates (or uses) a folder named Sample, with subfolders Sample_Code and Sample_
 ```
 dotnet new mvc --output Sample/Sample_Code --framework net10.0 --auth None --use-program-main true
 dotnet new sln -o Sample
-dotnet sln Sample1 add Sample/Sample_Code
+dotnet sln Sample add Sample/Sample_Code
 dotnet new nunit --output Sample/Sample_Tests --framework net10.0
 dotnet sln Sample add Sample/Sample_Tests
 dotnet add Sample/Sample_Tests reference Sample/Sample
@@ -109,7 +109,7 @@ public static void Main(string[] args)
 ### Use LINQPad 8 to explore your data and build Linq queries
 Download and install [LINQPad 8](https://www.linqpad.net/) Now available for Windows and MAC OS.
 
-Make sure your project has built, then open LINQPad and click `Add connection`.  Select the radio button for "Use a typed data context from your own assembly" and choose "EntityFramework Core (9.0)".  Click Next.  Click Browse for the "Path to Custom Assembly" and go find your applications `.dll`  For this example it is in the bin folder of your applications source at `bin\Debug\net10.0\Sample.dll`.  After the dialog finds your DbContext class and populates the second text field, choose "Via a constructor that accepts a DbContextOptions<>" from the "How should LINQPad instantiate your DbContext?".  Click Test and hopefully it shows you that it can connect to the database through your applications code.
+Make sure your project has built, then open LINQPad and click `Add connection`.  Select the radio button for "Use a typed data context from your own assembly" and choose "EntityFramework Core (10.0)".  Click Next.  Click Browse for the "Path to Custom Assembly" and go find your applications `.dll`  For this example it is in the bin folder of your applications source at `bin\Debug\net10.0\Sample.dll`.  After the dialog finds your DbContext class and populates the second text field, choose "Via a constructor that accepts a DbContextOptions<>" from the "How should LINQPad instantiate your DbContext?".  Click Test and hopefully it shows you that it can connect to the database through your applications code.
 
 [How to use Linq in C#](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
 
@@ -129,7 +129,7 @@ Then scaffold a controller with views for a particular model
 dotnet-aspnet-codegenerator controller -name ItemController -m Show -dc AuctionHouseDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
 ```
 
-Here is the documentation for this tool: [dotnet-aspnet-codegenerator](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-9.0)
+Here is the documentation for this tool: [dotnet-aspnet-codegenerator](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator?view=aspnetcore-10.0)
 
 Note, this uses the DbContext directly and so is only a guide or starting point for us since we are using Repositories.
 
@@ -137,6 +137,6 @@ For a WebAPI REST interface for CRUD operations we can change this slighly to ge
 ```
 dotnet-aspnet-codegenerator controller -name BuyerController -async -api -m Buyer -dc AuctionHouseDbContext -outDir Controllers
 ```
-See [Tutorial: Create a web API with controllers](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio-code) for more.
+See [Tutorial: Create a web API with controllers](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-10.0&tabs=visual-studio-code) for more.
 
 Watch out for cycles though if you try to do this directly with your database models.  
