@@ -1,0 +1,12 @@
+﻿@model List<Item>
+
+<div class=”row”>
+<div class=”col”>
+<ul>{
+@foreach (var item in Model)
+{
+<li>@item.Name   - -   @item.Description</li>
+}
+</ul>
+</div>
+</div>
