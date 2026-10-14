@@ -1,4 +1,4 @@
-﻿-- Remove relations, easy since we named them
+-- Remove relations, easy since we named them
 ALTER TABLE [Bid] DROP CONSTRAINT [Bid_Fk_Item];
 ALTER TABLE [Bid] DROP CONSTRAINT [Bid_Fk_Buyer];
 ALTER TABLE [Item] DROP CONSTRAINT [Item_Fk_Seller];
@@ -10,4 +10,4 @@ DROP TABLE [Item];
 DROP TABLE [Seller];
 DROP TABLE [Buyer];
 
--- After running this script we can re-use the database.  No need to create a new one.
+-- After running this script we can re-use the database.  No need to create a new one.  

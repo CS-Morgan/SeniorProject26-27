@@ -1,29 +1,30 @@
-﻿-- Seed the db with starting, default, or test values
+-- Seed the db with starting, default, or test values
+-- Seed the db with starting, default, or test values
 -- Note: by default SQL Server won't allow you to insert PK values, so we know what they are by the 
 -- order we've listed them in and knowing that PK's start at 1 and increment by 1 as we specified in our UP script.  
 -- If you want to manually specify PK's you must first turn on identity insert for each table.
 -- SET IDENTITY_INSERT [Buyer] ON;  
 INSERT INTO [Buyer](FirstName,LastName,Email)
 	VALUES
-	('Jane','Stone','jstone@gmail.com'),
-	('Tom','McMasters','tom@yahoo.com'),
-	('Otto','Vanderwall','otto@otto.com');
+	('Freddie','Mercury','fmercury@gmail.com'),
+	('Kurt','Cobain','kcobain@gmail.com'),
+	('Chris','Cornell','ccornell@gmail.com');
 
 INSERT INTO [Seller](FirstName,LastName,Email,Phone,TaxID)
 	VALUES
-	('Gayle','Hardy','gayle@hotmail.com','234-523-9923','7'),
-	('Lyle','Banks','lyle@hotmail.com','622-494-4782','22'),
-	('Pearl','Greene','pearl@gmail.com','755-823-7245','9999');
+	('Eddie','Vedder','evedder@hotmail.com','234-523-9923','123455'),
+	('Dave','Grohl','dgrohl@hotmail.com','622-494-4782','2352334'),
+	('Billie Joel','Armstrong','bjarmstrong@gmail.com','755-823-7245','02394833');
 
 INSERT INTO [Item](Name,Description,SellerID)
 	VALUES
-	('Abraham Lincoln Hammer','A bench mallet fashioned from a broken rail-splitting maul in 1829 and owned by Abraham Lincoln',3),
-	('Albert Einsteins Telescope','A brass telescope owned by Albert Einstein in Germany, circa 1927',1),
-	('Bob Dylan Love Poems','Five versions of an original unpublished, handwritten, love poem by Bob Dylan',2);
+	('Charlie Watts Drums','Drums played by Charlie Watts on the Voodoo Lounge Tour (1994-1995) ', 3),
+	(' Kathy Valentine Bass','Kathy Valentine bass from the 1982 Go-Gos International Tour ', 2),
+	('Greg Prato book - Grunge Is Dead','Original manuscript Grunge Is Dead: The Oral History of Seattle Rock Music ', 1);
 
 INSERT INTO [Bid](ItemID,BuyerID,Price,TimeSubmitted)
 	VALUES
-	(1,3,250000,'12/04/2017 09:04:22'),
-	(3,1,95000, '12/04/2017 08:44:03');
+	(1,3,250000,'2025-11-11 09:04:22.000'),
+	(3,1,95000, '2025-10-10 08:44:03.000');
 
 	
