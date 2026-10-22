@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\views\\seller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\views\\seller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\models\\dto\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\models\\dto\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\views\\seller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\views\\seller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\views\\seller\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\views\\seller\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\views\\seller\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\views\\seller\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\views\\seller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\views\\seller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|c:\\users\\morganb\\dropbox\\windows10_desktop\\archived-seniorproject_25-26\\25-26seniorproject25-26\\examples\\auctionhouse-this\\auctionhouse\\wwwroot\\js\\manage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D7535523-DE68-417C-D00F-AD51BE03711F}|AuctionHouse\\AuctionHouse.csproj|solutionrelative:auctionhouse\\wwwroot\\js\\manage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuctionHouse\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuctionHouse\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:31:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AuctionHouse\\Views\\Seller\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Delete.cshtml",
+              "RelativeToolTip": "AuctionHouse\\Views\\Seller\\Delete.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:23:02.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuctionHouse\\Views\\Seller\\Create.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Create.cshtml",
+              "RelativeToolTip": "AuctionHouse\\Views\\Seller\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:22:52.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "AuctionHouse\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "AuctionHouse\\Controllers\\SellerController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAcwIMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T01:21:10.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "AuctionHouse\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Models\\Seller.cs",
+              "RelativeToolTip": "AuctionHouse\\Models\\Seller.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T01:14:06.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Models\\DTO\\Seller.cs",
+              "RelativeDocumentMoniker": "AuctionHouse\\Models\\DTO\\Seller.cs",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Models\\DTO\\Seller.cs",
+              "RelativeToolTip": "AuctionHouse\\Models\\DTO\\Seller.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T01:13:54.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuctionHouse\\Views\\Seller\\Index.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Index.cshtml",
+              "RelativeToolTip": "AuctionHouse\\Views\\Seller\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:12:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "manage.js",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\wwwroot\\js\\manage.js",
+              "RelativeDocumentMoniker": "AuctionHouse\\wwwroot\\js\\manage.js",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\wwwroot\\js\\manage.js",
+              "RelativeToolTip": "AuctionHouse\\wwwroot\\js\\manage.js",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-19T01:23:10.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuctionHouse\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuctionHouse\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T01:16:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Details.cshtml",
+              "RelativeDocumentMoniker": "AuctionHouse\\Views\\Seller\\Details.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Details.cshtml",
+              "RelativeToolTip": "AuctionHouse\\Views\\Seller\\Details.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:23:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuctionHouse\\Views\\Seller\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\ARCHIVED-SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse-this\\AuctionHouse\\Views\\Seller\\Edit.cshtml",
+              "RelativeToolTip": "AuctionHouse\\Views\\Seller\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:23:07.052Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

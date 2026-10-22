@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v9.0
+build_property.EntryPointFilePath = 
+build_property.RootNamespace = AuctionHouse
+build_property.RootNamespace = AuctionHouse
+build_property.ProjectDir = C:\Users\morganb\Dropbox\Windows10_Desktop\ARCHIVED-SeniorProject_25-26\25-26SeniorProject25-26\Examples\AuctionHouse\AuctionHouse\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\morganb\Dropbox\Windows10_Desktop\ARCHIVED-SeniorProject_25-26\25-26SeniorProject25-26\Examples\AuctionHouse\AuctionHouse
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Home/Buyers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdXllcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Seller/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Seller/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Seller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Seller/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Seller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/morganb/Dropbox/Windows10_Desktop/ARCHIVED-SeniorProject_25-26/25-26SeniorProject25-26/Examples/AuctionHouse/AuctionHouse/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jxziy3zowu

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuctionHouse",
+    "\\AuctionHouse\\Controllers",
+    "\\AuctionHouse\\DAL",
+    "\\AuctionHouse\\DAL\\Concrete",
+    "\\AuctionHouse\\Data",
+    "\\AuctionHouse\\Models",
+    "\\AuctionHouse_Tests"
+  ],
+  "SelectedNode": "\\AuctionHouse\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

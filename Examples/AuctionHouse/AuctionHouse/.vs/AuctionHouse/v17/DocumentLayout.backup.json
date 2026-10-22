@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\wwwroot\\js\\manage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\js\\manage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manage.js",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\wwwroot\\js\\manage.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\manage.js",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\wwwroot\\js\\manage.js",
+              "RelativeToolTip": "wwwroot\\js\\manage.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-02T01:10:25.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Views\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T01:22:29.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\morganb\\Dropbox\\Windows10_Desktop\\SeniorProject_25-26\\25-26SeniorProject25-26\\Examples\\AuctionHouse\\AuctionHouse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T01:10:32.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
